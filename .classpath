@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/mockito-core-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/objenesis-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chris/Desktop/LogClient_lib/powermock-mockito-1.6.6-full.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
